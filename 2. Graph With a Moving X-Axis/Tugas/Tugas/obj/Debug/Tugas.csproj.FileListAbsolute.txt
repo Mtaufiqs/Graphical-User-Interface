@@ -1,0 +1,18 @@
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\obj\Debug\Tugas.csprojAssemblyReference.cache
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\obj\Debug\Tugas.Form1.resources
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\obj\Debug\Tugas.Properties.Resources.resources
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\obj\Debug\Tugas.csproj.GenerateResource.cache
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\bin\Debug\Tugas.exe.config
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\bin\Debug\Tugas.exe
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\bin\Debug\Tugas.pdb
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\obj\Debug\Tugas.exe
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Simple GUI\Tugas\Tugas\obj\Debug\Tugas.pdb
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\bin\Debug\Tugas.exe.config
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\bin\Debug\Tugas.exe
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\bin\Debug\Tugas.pdb
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\obj\Debug\Tugas.csprojAssemblyReference.cache
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\obj\Debug\Tugas.Form1.resources
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\obj\Debug\Tugas.Properties.Resources.resources
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\obj\Debug\Tugas.csproj.GenerateResource.cache
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\obj\Debug\Tugas.exe
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\Tugas\Tugas\obj\Debug\Tugas.pdb

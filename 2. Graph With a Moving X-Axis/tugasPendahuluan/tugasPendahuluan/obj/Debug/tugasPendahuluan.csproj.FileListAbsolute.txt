@@ -1,0 +1,9 @@
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\obj\Debug\tugasPendahuluan.csprojAssemblyReference.cache
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\obj\Debug\tugasPendahuluan.Form1.resources
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\obj\Debug\tugasPendahuluan.Properties.Resources.resources
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\obj\Debug\tugasPendahuluan.csproj.GenerateResource.cache
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\bin\Debug\tugasPendahuluan.exe.config
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\bin\Debug\tugasPendahuluan.exe
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\bin\Debug\tugasPendahuluan.pdb
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\obj\Debug\tugasPendahuluan.exe
+E:\Kuliah\Praktikum\Sistem Antarmuka\2. Graph With a Moving X-Axis\tugasPendahuluan\tugasPendahuluan\obj\Debug\tugasPendahuluan.pdb
