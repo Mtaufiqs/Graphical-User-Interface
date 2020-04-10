@@ -50,16 +50,6 @@ namespace pendahuluan
             }
         }
 
-        private void Button3_Click(object sender, EventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
-        private void ListBox1_DrawItem(object sender, DrawItemEventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             String[] portlist = System.IO.Ports.SerialPort.GetPortNames();
@@ -98,6 +88,7 @@ namespace pendahuluan
                 serialPort1.Write(textBox1.Text);
                 listBox1.Items.Add(new MyListBoxItem(Color.Gray, textBox1.Text));
                 textBox1.Clear();         
+                
             }
             catch(Exception)
             {
@@ -122,7 +113,7 @@ namespace pendahuluan
             else
             {
                 // This is the UI thread so perform the task
-                listBox1.Items.Add(new MyListBoxItem(Color.LightGray, Convert.ToString(item)));                
+                listBox1.Items.Add(new MyListBoxItem(Color.DarkGray, Convert.ToString(item)));                
             }
         }
     }

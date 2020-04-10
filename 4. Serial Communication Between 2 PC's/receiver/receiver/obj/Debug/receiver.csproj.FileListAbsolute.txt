@@ -1,0 +1,10 @@
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\bin\Debug\receiver.exe.config
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\bin\Debug\receiver.exe
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\bin\Debug\receiver.pdb
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\obj\Debug\receiver.csprojAssemblyReference.cache
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\obj\Debug\receiver.Form1.resources
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\obj\Debug\receiver.Properties.Resources.resources
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\obj\Debug\receiver.csproj.GenerateResource.cache
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\obj\Debug\receiver.csproj.CoreCompileInputs.cache
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\obj\Debug\receiver.exe
+E:\Praktikum\Sistem Antarmuka\4. Serial Communication Between 2 PC's\receiver\receiver\obj\Debug\receiver.pdb
