@@ -25,13 +25,13 @@ namespace Lab4
                 if (on)
                 {
                     button1.Text = ("ON");
-                    serialPort1.Write("Lampu ON");
+                    serialPort1.Write("Lampu ON\r\n");
                     on = false;
                 }
                 else
                 {
                     button1.Text = ("OFF");
-                    serialPort1.Write("Lampu OFF");
+                    serialPort1.Write("Lampu OFF\r\n");
                     on = true;
                 }
             }
@@ -44,14 +44,14 @@ namespace Lab4
             {
                 if (on)
                 {
-                    button2.Text = ("ON");
-                    serialPort1.Write("Kipas ON");
+                    button2.Text = ("ON\r\n");
+                    serialPort1.Write("Kipas ON\r\n");
                     on = false;
                 }
                 else
                 {
                     button2.Text = ("OFF");
-                    serialPort1.Write("Kipas OFF");
+                    serialPort1.Write("Kipas OFF\r\n");
                     on = true;
                 }
             }
@@ -65,13 +65,13 @@ namespace Lab4
                 if (on)
                 {
                     button3.Text = ("ON");
-                    serialPort1.Write("AC ON");
+                    serialPort1.Write("AC ON\r\n");
                     on = false;
                 }
                 else
                 {
                     button3.Text = ("OFF");
-                    serialPort1.Write("AC OFF");
+                    serialPort1.Write("AC OFF\r\n");
                     on = true;
                 }
             }
@@ -85,13 +85,13 @@ namespace Lab4
                 if (on)
                 {
                     button4.Text = ("ON");
-                    serialPort1.Write("CCTV ON");
+                    serialPort1.Write("CCTV ON\r\n");
                     on = false;
                 }
                 else
                 {
                     button4.Text = ("OFF");
-                    serialPort1.Write("CCTV OFF");
+                    serialPort1.Write("CCTV OFF\r\n");
                     on = true;
                 }
             }
@@ -105,13 +105,13 @@ namespace Lab4
                 if (on)
                 {
                     button5.Text = ("ON");
-                    serialPort1.Write("TV ON");
+                    serialPort1.Write("TV ON\r\n");
                     on = false;
                 }
                 else
                 {
                     button5.Text = ("OFF");
-                    serialPort1.Write("TV OFF");
+                    serialPort1.Write("TV OFF\r\n");
                     on = true;
                 }
             }
@@ -127,18 +127,16 @@ namespace Lab4
                     button7.Text = ("Connected");
                     serialPort1.PortName = comboBox1.Text;
                     serialPort1.Open();
-                    Form1.ActiveForm.Text = serialPort1.PortName;
+                    label1.Text = serialPort1.PortName + (" is Connected");
                 }
                 else
                 {
                     button7.Text = ("Connect");
                     serialPort1.Close();
-                    Form1.ActiveForm.Text = ("Not Connect");
+                    label1.Text = ("Not Connected");
                 }
             }
-            catch
-            {
-            }
+            catch { }
         }
 
         private void Form1_Load(object sender, EventArgs e)

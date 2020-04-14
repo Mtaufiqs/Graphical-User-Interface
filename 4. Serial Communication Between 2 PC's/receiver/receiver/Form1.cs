@@ -15,8 +15,6 @@ namespace receiver
         public Form1()
         {
             InitializeComponent();
-            serialPort1.PortName = ("COM18");
-            serialPort1.Open();
         }
 
         private void serialPort1_DataReceived(object sender, System.IO.Ports.SerialDataReceivedEventArgs e)
@@ -38,52 +36,51 @@ namespace receiver
                 string buttons;
                 buttons = (Convert.ToString(item));
 
-                if (buttons == ("Lampu ON"))
-                {
-                    
+                if (buttons == ("Lampu ON\r\n"))
+                {             
                     button1.Text = ("Lampu ON");
                     button1.BackColor = Color.Green;
                 }
-                else if(buttons == ("Lampu OFF"))
+                else if(buttons == ("Lampu OFF\r\n"))
                 {
                     button1.Text = ("Lampu OFF");
                     button1.BackColor = Color.Red;
                 }
 
-                else if (buttons == ("Kipas ON"))
+                else if (buttons == ("Kipas ON\r\n"))
                 {
                     button2.Text = ("Kipas ON");
                     button2.BackColor = Color.Green;
                 }
-                else if (buttons == ("Kipas OFF"))
+                else if (buttons == ("Kipas OFF\r\n"))
                 {
                     button2.Text = ("Kipas OFF");
                     button2.BackColor = Color.Red;
                 }
 
-                else if (buttons == ("AC ON"))
+                else if (buttons == ("AC ON\r\n"))
                 {
                     button3.Text = ("AC ON");
                     button3.BackColor = Color.Green;
                 }
-                else if (buttons == ("AC OFF"))
+                else if (buttons == ("AC OFF\r\n"))
                 {
                     button3.Text = ("AC OFF");
                     button3.BackColor = Color.Red;
                 }
 
-                else if (buttons == ("CCTV ON"))
+                else if (buttons == ("CCTV ON\r\n"))
                 {
-                    button4.Text = ("CCTV ON");
+                    button4.Text = ("CCTV ON\r\n");
                     button4.BackColor = Color.Green;
                 }
-                else if (buttons == ("CCTV OFF"))
+                else if (buttons == ("CCTV OFF\r\n"))
                 {
                     button4.Text = ("CCTV OFF");
                     button4.BackColor = Color.Red;
                 }
 
-                else if (buttons == ("TV ON"))
+                else if (buttons == ("TV ON\r\n"))
                 {
                     button5.Text = ("TV ON");
                     button5.BackColor = Color.Green;
@@ -112,18 +109,16 @@ namespace receiver
                     button7.Text = ("Connected");
                     serialPort1.PortName = comboBox1.Text;
                     serialPort1.Open();
-                    Form1.ActiveForm.Text = serialPort1.PortName;
+                    label1.Text = serialPort1.PortName + (" is Connected");
                 }
                 else
                 {
                     button7.Text = ("Connect");
                     serialPort1.Close();
-                    Form1.ActiveForm.Text = Form1.ActiveForm.Text;
+                    label1.Text = ("Not Connected");
                 }
             }
-            catch
-            {
-            }
+            catch { }
         }
     }
 }
