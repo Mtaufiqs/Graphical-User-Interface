@@ -1,7 +1,11 @@
 # Graphical-User-Interface
 # C# language
 
-C# syntax is highly expressive,yet it is also simpleand easy to learn.Thecurly-bracesyntax of C# will beinstantly
+<p align="center">
+  <img alt="C# in action" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg">
+</p>
+
+<p align = "justify">C# syntax is highly expressive,yet it is also simpleand easy to learn.Thecurly-bracesyntax of C# will beinstantly
 recognizableto anyonefamiliar with C, C++, or Java. Developers who know any of theselanguages aretypically
 ableto begin to work productively in C# within a short time. C# syntax simplifies many of thecomplexities of C++
 and provides powerful features such as nullabletypes,enumerations, delegates, lambdaexpressions,and direct
@@ -39,4 +43,4 @@ defineany number of classes, structs, interfaces,and events.
 Thefollowing areadditional C# resources:
 * For a good general introduction to thelanguage, see Chapter 1 of the [C# LanguageSpecification](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction).
 * For detailed information about specificaspects of the C# language, seethe [C# Reference](https://opdhsblobprod02.blob.core.windows.net/contents/c6aea4f5457448ee818b7292ba695982/4208e5373b6c5d5e03d8cdfcad17d27c?sv=2018-03-28&sr=b&si=ReadPolicy&sig=o5pTsGYogDLuY%2BXVY%2BEnJD9Ow3FTDfEwbXsKk9okw5I%3D&st=2020-04-14T11%3A18%3A29Z&se=2020-04-15T11%3A28%3A29Z).
-* For more information about LINQ, seeLINQ [(Language-Integrated Query)](https://opdhsblobprod02.blob.core.windows.net/contents/c6aea4f5457448ee818b7292ba695982/4208e5373b6c5d5e03d8cdfcad17d27c?sv=2018-03-28&sr=b&si=ReadPolicy&sig=o5pTsGYogDLuY%2BXVY%2BEnJD9Ow3FTDfEwbXsKk9okw5I%3D&st=2020-04-14T11%3A18%3A29Z&se=2020-04-15T11%3A28%3A29Z).
+* For more information about LINQ, seeLINQ [(Language-Integrated Query)](https://opdhsblobprod02.blob.core.windows.net/contents/c6aea4f5457448ee818b7292ba695982/4208e5373b6c5d5e03d8cdfcad17d27c?sv=2018-03-28&sr=b&si=ReadPolicy&sig=o5pTsGYogDLuY%2BXVY%2BEnJD9Ow3FTDfEwbXsKk9okw5I%3D&st=2020-04-14T11%3A18%3A29Z&se=2020-04-15T11%3A28%3A29Z).</p>
