@@ -1,2 +1,2 @@
 # Graphical-User-Interface
-Project System Interface (GUI) using C# programming language
+System Interface Project (GUI) using C# programming language
