@@ -12,7 +12,11 @@ namespace Lab4
 {
     public partial class Form1 : Form
     {
-        bool on = true;
+        bool on1 = true;
+        bool on2 = true;
+        bool on3 = true;
+        bool on4 = true;
+        bool on5 = true;
         public Form1()
         {
             InitializeComponent();
@@ -22,17 +26,17 @@ namespace Lab4
         {
             try
             {
-                if (on)
+                if (on1)
                 {
                     button1.Text = ("ON");
                     serialPort1.Write("Lampu ON\r\n");
-                    on = false;
+                    on1 = false;
                 }
                 else
                 {
                     button1.Text = ("OFF");
                     serialPort1.Write("Lampu OFF\r\n");
-                    on = true;
+                    on1 = true;
                 }
             }
             catch { }
@@ -42,17 +46,17 @@ namespace Lab4
         {
             try
             {
-                if (on)
+                if (on2)
                 {
                     button2.Text = ("ON\r\n");
                     serialPort1.Write("Kipas ON\r\n");
-                    on = false;
+                    on2 = false;
                 }
                 else
                 {
                     button2.Text = ("OFF");
                     serialPort1.Write("Kipas OFF\r\n");
-                    on = true;
+                    on2 = true;
                 }
             }
             catch { }
@@ -62,17 +66,17 @@ namespace Lab4
         {
             try
             {
-                if (on)
+                if (on3)
                 {
                     button3.Text = ("ON");
                     serialPort1.Write("AC ON\r\n");
-                    on = false;
+                    on3 = false;
                 }
                 else
                 {
                     button3.Text = ("OFF");
                     serialPort1.Write("AC OFF\r\n");
-                    on = true;
+                    on3 = true;
                 }
             }
             catch { }
@@ -82,17 +86,17 @@ namespace Lab4
         {
             try
             {
-                if (on)
+                if (on4)
                 {
                     button4.Text = ("ON");
                     serialPort1.Write("CCTV ON\r\n");
-                    on = false;
+                    on4 = false;
                 }
                 else
                 {
                     button4.Text = ("OFF");
                     serialPort1.Write("CCTV OFF\r\n");
-                    on = true;
+                    on4 = true;
                 }
             }
             catch { }
@@ -102,17 +106,17 @@ namespace Lab4
         {
             try
             {
-                if (on)
+                if (on5)
                 {
                     button5.Text = ("ON");
                     serialPort1.Write("TV ON\r\n");
-                    on = false;
+                    on5 = false;
                 }
                 else
                 {
                     button5.Text = ("OFF");
                     serialPort1.Write("TV OFF\r\n");
-                    on = true;
+                    on5 = true;
                 }
             }
             catch { }
